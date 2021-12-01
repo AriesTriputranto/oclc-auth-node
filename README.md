@@ -4,7 +4,7 @@
 
 This library contains javascript classes that handle the authentication chore so you can focus on developing your node application.
 
-This library supports
+This library supports and logo certificate OCLC the client
 
 * HMAC Hashing
 * Explicit Authorzation Flow (User signs in, you get a token)
